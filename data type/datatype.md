@@ -1,4 +1,4 @@
- #php data type
+ # php data type
  ***
  
  - php var_dump() function is used to determine the type of vaiable
