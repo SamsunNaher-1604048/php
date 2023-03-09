@@ -5,6 +5,6 @@ There are two way of write if condition
   code
  }
 
--if(condition):
+- if(condition):
    code
 endif;
