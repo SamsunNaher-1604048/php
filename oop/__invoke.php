@@ -20,6 +20,6 @@ class calcutator{
 
 $obj = new calcutator(30,20);
 //$obj->sum();
-$obj();
+$obj(); 
 
 ?>

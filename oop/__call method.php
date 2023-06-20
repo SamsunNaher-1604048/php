@@ -1,7 +1,5 @@
 <?php
 
-use student as GlobalStudent;
-
 class student{
     private $frist_name;
     private $last_name;
